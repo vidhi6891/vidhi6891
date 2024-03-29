@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello everyone, 
+   A little bit about myself. I am skilled in React, JavaScript, Python with a propensity towards front-end development. I like working on solving complex, challenging and meaningful technical (Engineering) tasks, at the same time being involved in critical thinking and the product’s strategy and goals. I am currently working as a Technical Lead and Frontend developer at Azuga, Inc a Bridgestone company. 
+I have close to 10 years of experience in software development and engineering team management. 
+
+ 
 
 <!--
 **vidhi6891/vidhi6891** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
