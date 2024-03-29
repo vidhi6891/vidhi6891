@@ -1,4 +1,4 @@
-###                                                                                                       Hello I am Vidhi Agarwal
+###                                                                                                       Hi, I am Vidhi Agarwal
 ####                                                                           Technical lead, Fullstack developer with propensity towards front-end development 
 
    A little bit about myself. I am skilled in React, JavaScript, Python with a propensity towards front-end development. I like working on solving complex, challenging and meaningful technical (Engineering) tasks, at the same time being involved in critical thinking and the product’s strategy and goals. I am currently working as a Technical Lead and Frontend developer at Azuga, Inc a Bridgestone company. 
